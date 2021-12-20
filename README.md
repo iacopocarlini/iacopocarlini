@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iacopocarlini, Software Engineer based in Italy
-- 👀 Passionate in basketball and...why not, software development applied to basketball (ML, Data Analysis...whatever)
-- 🌱 I’m currently learning PWA development and Web security
+- 👀 Passionate in basketball and...why not, software development applied to basketball
+- 🌱 I’m currently learning PWA and Front End development
 - 💞️ I’m looking to collaborate on open source projects
 
 <!---
