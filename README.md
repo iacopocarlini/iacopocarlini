@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @iacopocarlini, Software Engineer based in Italy
 - 👀 Passionate in basketball and...why not, software development applied to basketball
-- 🌱 I’m currently learning PWA and Front End development
-- 💞️ I’m looking to collaborate on open source projects
+- 🌱 I’m currently learning PWA and Vue
 
 <!---
 iacopocarlini/iacopocarlini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
