@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @iacopocarlini, Software Engineer based in Italy
-- 👀 Passionate in basketball and...why not, software development applied to basketball
-- 🌱 I’m currently learning PWA and TypeScript
 
 <!---
 iacopocarlini/iacopocarlini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
